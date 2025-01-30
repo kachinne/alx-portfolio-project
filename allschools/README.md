@@ -1,0 +1,1 @@
+This contains the final portfolio project, this project is all about registering a school by an owner who then create the schools website through new school button but the owner has to register in order to achieve this. The app also has a page for registering teachers and students as well. Computation of the students result is also available
